@@ -43,5 +43,4 @@ document.addEventListener("keyup", event => {
   } 
 })
 
-
 targetRandomKey();
